@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Flight updates</title>
+
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/bootstrap-theme.css">
+
+
+    <script type='text/javascript'>
+
+        if (!window.WebSocket) {
+            alert("WebSocket not supported by this browser");
+        }
+
+        var room = {
+            join: function (name) {
+                var location = "ws://localhost:9292/flights";
+                this._ws = new WebSocket(location);
+                this._ws.onmessage = this._onmessage;
+                this._ws.onclose = this._onclose;
+            },
+            messages: function (name) {
+                var location = "ws://localhost:9292/messages";
+                this._ws = new WebSocket(location);
+                this._ws.onmessage = this._onmessage2;
+                this._ws.onclose = this._onclose2;
+            },
+
+            _onmessage: function (m) {
+                if (m.data) {
+                    var flights = $('#flights');
+                    var flight = JSON.parse(m.data);
+                    var flightLine = $("<div>" + flight.flight + " from " + flight.airport +" expected: " + flight.scheduledTime + ": " + flight.status + "</div>");
+                    flights.prepend(flightLine);
+                }
+            },
+            _onmessage2: function (m) {
+                if (m.data) {
+                    var flights = $('#flights');
+                    var flightLine = $("<div>" + m.data + "</div>");
+                    flights.prepend(flightLine);
+                }
+            },
+
+            _onclose: function (m) {
+                this._ws = null;
+            }
+
+        };
+
+    </script>
+</head>
+<body>
+
+<div class="container">
+    <div class="chat">
+        <h1>Avinor flight data</h1>
+
+        <p class="lead">Her vises oppdaterte flytider ettersom de kommer fra avinor</p>
+    </div>
+</div>
+<div class="container" id="flights"></div>
+
+
+<!-- TEMPLATES-->
+<script id="flight" type="text/x-handlebars-template">
+    <div class="flight">
+        {{}}
+    </div>
+</script>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.js"></script>
+<script src="js/handlebars-v1.3.0.js"></script>
+
+<script type='text/javascript'>
+    room.join("Testing");
+    room.messages("Testing");
+</script>
+
+</body>
+</html>

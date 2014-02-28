@@ -1,0 +1,2206 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<airport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="http://flydata.avinor.no/XmlFeed.xsd"
+         name="OSL">
+    <flights lastUpdate="2014-02-27T13:58:27Z">
+        <flight uniqueID="3979105">
+            <airline>KL</airline>
+            <flight_id>KL1142</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-04T08:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+            <status code="N" time="2014-02-04T08:45:00Z"/>
+        </flight>
+        <flight uniqueID="3979278">
+            <airline>BM</airline>
+            <flight_id>BM1358</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-04T18:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ABZ</airport>
+            <check_in>E</check_in>
+            <gate>REM</gate>
+            <status code="N" time="2014-02-04T18:15:00Z"/>
+        </flight>
+        <flight uniqueID="3981078">
+            <airline>KL</airline>
+            <flight_id>KL1142</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-05T08:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+            <status code="N" time="2014-02-05T08:45:00Z"/>
+        </flight>
+        <flight uniqueID="3986164">
+            <airline>KL</airline>
+            <flight_id>KL1142</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-07T08:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+        </flight>
+        <flight uniqueID="3988670">
+            <airline>KL</airline>
+            <flight_id>KL1142</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-08T08:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+            <status code="N" time="2014-02-08T08:45:00Z"/>
+        </flight>
+        <flight uniqueID="4020767">
+            <airline>AF</airline>
+            <flight_id>AF1775</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T11:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CDG</airport>
+            <check_in>B</check_in>
+            <gate>45</gate>
+            <status code="D" time="2014-02-27T11:50:00Z"/>
+        </flight>
+        <flight uniqueID="4030978">
+            <airline>DL</airline>
+            <flight_id>DL8629</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T11:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CDG</airport>
+            <check_in>B</check_in>
+            <gate>45</gate>
+            <status code="D" time="2014-02-27T11:50:00Z"/>
+        </flight>
+        <flight uniqueID="4021307">
+            <airline>LH</airline>
+            <flight_id>LH861</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T11:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRA</airport>
+            <check_in>E</check_in>
+            <gate>40</gate>
+            <status code="D" time="2014-02-27T11:55:00Z"/>
+        </flight>
+        <flight uniqueID="4030980">
+            <airline>SK</airline>
+            <flight_id>SK3609</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T11:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRA</airport>
+            <check_in>E</check_in>
+            <gate>40</gate>
+            <status code="D" time="2014-02-27T11:55:00Z"/>
+        </flight>
+        <flight uniqueID="4021571">
+            <airline>SK</airline>
+            <flight_id>SK344</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T11:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+            <status code="D" time="2014-02-27T11:53:00Z"/>
+        </flight>
+        <flight uniqueID="4020851">
+            <airline>DK</airline>
+            <flight_id>DK5911</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T11:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HKT</airport>
+            <check_in>G</check_in>
+            <gate>51</gate>
+            <status code="D" time="2014-02-27T11:53:00Z"/>
+        </flight>
+        <flight uniqueID="4021031">
+            <airline>DY</airline>
+            <flight_id>DY362</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>EVE</airport>
+            <check_in>CD</check_in>
+            <gate>13</gate>
+            <status code="D" time="2014-02-27T11:57:00Z"/>
+        </flight>
+        <flight uniqueID="3871695">
+            <airline>DY</airline>
+            <flight_id>DY532</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+            <status code="D" time="2014-02-27T11:53:00Z"/>
+        </flight>
+        <flight uniqueID="4021372">
+            <airline>SK</airline>
+            <flight_id>SK1320</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>EF</check_in>
+            <gate>12</gate>
+            <status code="D" time="2014-02-27T12:00:00Z"/>
+        </flight>
+        <flight uniqueID="4021455">
+            <airline>SK</airline>
+            <flight_id>SK2303</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KSU</airport>
+            <check_in>EF</check_in>
+            <gate>10</gate>
+            <status code="D" time="2014-02-27T12:05:00Z"/>
+        </flight>
+        <flight uniqueID="4021971">
+            <airline>SK</airline>
+            <flight_id>SK805</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T12:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>EF</check_in>
+            <gate>58A</gate>
+            <status code="D" time="2014-02-27T12:06:00Z"/>
+        </flight>
+        <flight uniqueID="4022011">
+            <airline>SU</airline>
+            <flight_id>SU2175</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T12:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVO</airport>
+            <check_in>G</check_in>
+            <gate>59</gate>
+            <status code="D" time="2014-02-27T12:10:00Z"/>
+        </flight>
+        <flight uniqueID="4021651">
+            <airline>SK</airline>
+            <flight_id>SK4025</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+            <status code="D" time="2014-02-27T12:04:00Z"/>
+        </flight>
+        <flight uniqueID="4030982">
+            <airline>SK</airline>
+            <flight_id>SK8712</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T12:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVO</airport>
+            <check_in>G</check_in>
+            <gate>59</gate>
+            <status code="D" time="2014-02-27T12:10:00Z"/>
+        </flight>
+        <flight uniqueID="4030983">
+            <airline>FI</airline>
+            <flight_id>FI7345</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>D</check_in>
+            <gate>41</gate>
+            <status code="D" time="2014-02-27T12:21:00Z"/>
+        </flight>
+        <flight uniqueID="4020771">
+            <airline>AY</airline>
+            <flight_id>AY2656</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>D</check_in>
+            <gate>41</gate>
+            <status code="D" time="2014-02-27T12:21:00Z"/>
+        </flight>
+        <flight uniqueID="4021188">
+            <airline>DY</airline>
+            <flight_id>DY754</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>15</gate>
+            <status code="D" time="2014-02-27T12:22:00Z"/>
+        </flight>
+        <flight uniqueID="4022077">
+            <airline>TG</airline>
+            <flight_id>TG955</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T12:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BKK</airport>
+            <check_in>H</check_in>
+            <gate>50</gate>
+            <status code="D" time="2014-02-27T12:30:00Z"/>
+        </flight>
+        <flight uniqueID="4022099">
+            <airline>WF</airline>
+            <flight_id>WF052</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>RRS</airport>
+            <check_in>EF</check_in>
+            <gate>2</gate>
+            <status code="D" time="2014-02-27T12:27:00Z"/>
+        </flight>
+        <flight uniqueID="4030984">
+            <airline>SK</airline>
+            <flight_id>SK3030</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+            <status code="D" time="2014-02-27T12:30:00Z"/>
+        </flight>
+        <flight uniqueID="4022271">
+            <airline>WF</airline>
+            <flight_id>WF328</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+            <status code="D" time="2014-02-27T12:30:00Z"/>
+        </flight>
+        <flight uniqueID="4021017">
+            <airline>DY</airline>
+            <flight_id>DY346</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BOO</airport>
+            <check_in>CD</check_in>
+            <gate>24</gate>
+            <status code="D" time="2014-02-27T12:35:00Z"/>
+        </flight>
+        <flight uniqueID="4021399">
+            <airline>SK</airline>
+            <flight_id>SK1469</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>38</gate>
+            <status code="D" time="2014-02-27T12:35:00Z"/>
+        </flight>
+        <flight uniqueID="4021224">
+            <airline>DY</airline>
+            <flight_id>DY940</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>CD</check_in>
+            <gate>43</gate>
+            <status code="D" time="2014-02-27T12:46:00Z"/>
+        </flight>
+        <flight uniqueID="4021489">
+            <airline>SK</airline>
+            <flight_id>SK267</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+            <status code="D" time="2014-02-27T12:39:00Z"/>
+        </flight>
+        <flight uniqueID="4021353">
+            <airline>OS</airline>
+            <flight_id>OS336</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T12:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>VIE</airport>
+            <check_in>D</check_in>
+            <status code="C"/>
+        </flight>
+        <flight uniqueID="4021815">
+            <airline>SK</airline>
+            <flight_id>SK4418</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T12:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+            <status code="D" time="2014-02-27T12:59:00Z"/>
+        </flight>
+        <flight uniqueID="4020913">
+            <airline>DY</airline>
+            <flight_id>DY1308</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T13:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LGW</airport>
+            <check_in>CD</check_in>
+            <gate>57</gate>
+            <status code="D" time="2014-02-27T12:54:00Z"/>
+        </flight>
+        <flight uniqueID="4021045">
+            <airline>DY</airline>
+            <flight_id>DY382</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>CD</check_in>
+            <gate>13</gate>
+            <status code="D" time="2014-02-27T12:53:00Z"/>
+        </flight>
+        <flight uniqueID="4021955">
+            <airline>SK</airline>
+            <flight_id>SK486</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T13:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>42</gate>
+            <status code="D" time="2014-02-27T13:03:00Z"/>
+        </flight>
+        <flight uniqueID="4021581">
+            <airline>SK</airline>
+            <flight_id>SK350</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>11</gate>
+            <status code="D" time="2014-02-27T13:04:00Z"/>
+        </flight>
+        <flight uniqueID="4021233">
+            <airline>FI</airline>
+            <flight_id>FI319</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T13:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KEF</airport>
+            <check_in>F</check_in>
+            <gate>46</gate>
+            <status code="D" time="2014-02-27T13:01:00Z"/>
+        </flight>
+        <flight uniqueID="3965301">
+            <airline>SK</airline>
+            <flight_id>SK312</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HAU</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+            <status code="D" time="2014-02-27T13:21:00Z"/>
+        </flight>
+        <flight uniqueID="4021439">
+            <airline>SK</airline>
+            <flight_id>SK215</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KRS</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+            <status code="D" time="2014-02-27T13:24:00Z"/>
+        </flight>
+        <flight uniqueID="4021007">
+            <airline>DY</airline>
+            <flight_id>DY334</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BDU</airport>
+            <check_in>CD</check_in>
+            <gate>15</gate>
+            <status code="D" time="2014-02-27T13:32:00Z"/>
+        </flight>
+        <flight uniqueID="4030990">
+            <airline>AA</airline>
+            <flight_id>AA6571</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T13:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+            <status code="D" time="2014-02-27T13:34:00Z"/>
+        </flight>
+        <flight uniqueID="4020788">
+            <airline>BA</airline>
+            <flight_id>BA765</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T13:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+            <status code="D" time="2014-02-27T13:34:00Z"/>
+        </flight>
+        <flight uniqueID="4021655">
+            <airline>SK</airline>
+            <flight_id>SK4027</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+            <status code="D" time="2014-02-27T13:38:00Z"/>
+        </flight>
+        <flight uniqueID="4022213">
+            <airline>WF</airline>
+            <flight_id>WF177</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HOV</airport>
+            <check_in>EF</check_in>
+            <gate>2</gate>
+            <status code="E" time="2014-02-27T14:00:00Z"/>
+            <delayed>Y</delayed>
+        </flight>
+        <flight uniqueID="4021119">
+            <airline>DY</airline>
+            <flight_id>DY536</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>19H</gate>
+            <status code="D" time="2014-02-27T13:42:00Z"/>
+        </flight>
+        <flight uniqueID="4022082">
+            <airline>TP</airline>
+            <flight_id>TP761</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T13:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LIS</airport>
+            <check_in>H</check_in>
+            <gate>40</gate>
+            <status code="D" time="2014-02-27T13:51:00Z"/>
+        </flight>
+        <flight uniqueID="4021493">
+            <airline>SK</airline>
+            <flight_id>SK269</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>20</gate>
+            <status code="D" time="2014-02-27T13:42:00Z"/>
+        </flight>
+        <flight uniqueID="4020911">
+            <airline>DY</airline>
+            <flight_id>DY1262</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T13:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AYT</airport>
+            <check_in>CD</check_in>
+            <gate>53</gate>
+            <status code="D" time="2014-02-27T13:51:00Z"/>
+        </flight>
+        <flight uniqueID="4021148">
+            <airline>DY</airline>
+            <flight_id>DY616</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>13</gate>
+            <status code="D" time="2014-02-27T13:54:00Z"/>
+        </flight>
+        <flight uniqueID="3928410">
+            <airline>DY</airline>
+            <flight_id>DY756</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>12</gate>
+            <status code="D" time="2014-02-27T13:52:00Z"/>
+        </flight>
+        <flight uniqueID="4021585">
+            <airline>SK</airline>
+            <flight_id>SK354</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T13:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>19A</gate>
+        </flight>
+        <flight uniqueID="4020874">
+            <airline>DX</airline>
+            <flight_id>DX044</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SRP</airport>
+            <check_in>B</check_in>
+            <gate>3</gate>
+            <status code="E" time="2014-02-27T14:10:00Z"/>
+        </flight>
+        <flight uniqueID="4021063">
+            <airline>DY</airline>
+            <flight_id>DY408</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>CD</check_in>
+            <gate>19G</gate>
+            <status code="E" time="2014-02-27T14:10:00Z"/>
+        </flight>
+        <flight uniqueID="4020959">
+            <airline>DY</airline>
+            <flight_id>DY186</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HAU</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+            <status code="D" time="2014-02-27T13:55:00Z"/>
+        </flight>
+        <flight uniqueID="4021973">
+            <airline>SK</airline>
+            <flight_id>SK809</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T14:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>EF</check_in>
+            <gate>59</gate>
+        </flight>
+        <flight uniqueID="4021401">
+            <airline>SK</airline>
+            <flight_id>SK1471</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T14:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>44</gate>
+        </flight>
+        <flight uniqueID="4021659">
+            <airline>SK</airline>
+            <flight_id>SK4031</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="4021376">
+            <airline>SK</airline>
+            <flight_id>SK1322</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>EF</check_in>
+            <gate>19E</gate>
+        </flight>
+        <flight uniqueID="4022231">
+            <airline>WF</airline>
+            <flight_id>WF191</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FDE</airport>
+            <check_in>EF</check_in>
+            <gate>7</gate>
+        </flight>
+        <flight uniqueID="4022141">
+            <airline>WF</airline>
+            <flight_id>WF126</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRO</airport>
+            <check_in>EF</check_in>
+            <gate>10</gate>
+        </flight>
+        <flight uniqueID="4036014">
+            <airline>BA</airline>
+            <flight_id>BA8286</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T14:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AAR</airport>
+            <check_in>H</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4021501">
+            <airline>SK</airline>
+            <flight_id>SK271</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4021705">
+            <airline>SK</airline>
+            <flight_id>SK4116</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BOO</airport>
+            <check_in>EF</check_in>
+            <gate>20</gate>
+        </flight>
+        <flight uniqueID="4021595">
+            <airline>SK</airline>
+            <flight_id>SK362</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+        </flight>
+        <flight uniqueID="4021150">
+            <airline>DY</airline>
+            <flight_id>DY618</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>19B</gate>
+        </flight>
+        <flight uniqueID="4021689">
+            <airline>SK</airline>
+            <flight_id>SK4094</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>EVE</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="4021859">
+            <airline>SK</airline>
+            <flight_id>SK4524</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T14:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>MOL</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="4021497">
+            <airline>SK</airline>
+            <flight_id>SK2704</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T14:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>EF</check_in>
+            <gate>47A</gate>
+        </flight>
+        <flight uniqueID="4020994">
+            <airline>DY</airline>
+            <flight_id>DY3226</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T14:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>CD</check_in>
+            <gate>42</gate>
+        </flight>
+        <flight uniqueID="4021070">
+            <airline>DY</airline>
+            <flight_id>DY4118</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>CD</check_in>
+            <gate>43</gate>
+        </flight>
+        <flight uniqueID="4021995">
+            <airline>SK</airline>
+            <flight_id>SK882</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>49</gate>
+        </flight>
+        <flight uniqueID="4021663">
+            <airline>SK</airline>
+            <flight_id>SK4035</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>13</gate>
+        </flight>
+        <flight uniqueID="4021330">
+            <airline>M3</airline>
+            <flight_id>M3942</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>VDB</airport>
+            <check_in>H</check_in>
+            <gate>14C</gate>
+        </flight>
+        <flight uniqueID="4022642">
+            <airline>WF</airline>
+            <flight_id>WF784</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BNN</airport>
+            <check_in>EF</check_in>
+            <gate>9</gate>
+        </flight>
+        <flight uniqueID="4022177">
+            <airline>WF</airline>
+            <flight_id>WF149</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <via_airport>HOV,SOG</via_airport>
+            <check_in>EF</check_in>
+            <gate>7</gate>
+        </flight>
+        <flight uniqueID="4022183">
+            <airline>WF</airline>
+            <flight_id>WF153</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>OSL</airport>
+            <via_airport>SDN,SOG</via_airport>
+            <check_in>EF</check_in>
+            <gate>3</gate>
+        </flight>
+        <flight uniqueID="4021087">
+            <airline>DY</airline>
+            <flight_id>DY426</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>MOL</airport>
+            <check_in>CD</check_in>
+            <gate>19C</gate>
+        </flight>
+        <flight uniqueID="4021912">
+            <airline>SK</airline>
+            <flight_id>SK459</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>40</gate>
+        </flight>
+        <flight uniqueID="4021505">
+            <airline>SK</airline>
+            <flight_id>SK273</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>16</gate>
+            <status code="E" time="2014-02-27T15:40:00Z"/>
+            <delayed>Y</delayed>
+        </flight>
+        <flight uniqueID="4021152">
+            <airline>DY</airline>
+            <flight_id>DY620</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+        </flight>
+        <flight uniqueID="4021192">
+            <airline>DY</airline>
+            <flight_id>DY760</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>15</gate>
+        </flight>
+        <flight uniqueID="4021821">
+            <airline>SK</airline>
+            <flight_id>SK4424</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>EF</check_in>
+            <gate>20</gate>
+        </flight>
+        <flight uniqueID="4021589">
+            <airline>SK</airline>
+            <flight_id>SK358</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="3871705">
+            <airline>DY</airline>
+            <flight_id>DY538</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>19A</gate>
+        </flight>
+        <flight uniqueID="4021667">
+            <airline>SK</airline>
+            <flight_id>SK4039</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4021941">
+            <airline>SK</airline>
+            <flight_id>SK4745</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BRU</airport>
+            <check_in>EF</check_in>
+            <gate>45</gate>
+        </flight>
+        <flight uniqueID="4022273">
+            <airline>WF</airline>
+            <flight_id>WF332</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>35B</gate>
+        </flight>
+        <flight uniqueID="4031028">
+            <airline>SK</airline>
+            <flight_id>SK3053</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>35B</gate>
+        </flight>
+        <flight uniqueID="4021978">
+            <airline>SK</airline>
+            <flight_id>SK818</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>DUS</airport>
+            <check_in>EF</check_in>
+            <gate>48</gate>
+        </flight>
+        <flight uniqueID="4021982">
+            <airline>SK</airline>
+            <flight_id>SK827</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4020446">
+            <airline>8Q</airline>
+            <flight_id>8Q4660</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T15:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AYT</airport>
+            <via_airport>BCN</via_airport>
+            <check_in>B</check_in>
+            <gate>53</gate>
+            <status code="E" time="2014-02-27T17:40:00Z"/>
+            <delayed>Y</delayed>
+        </flight>
+        <flight uniqueID="4021196">
+            <airline>DY</airline>
+            <flight_id>DY762</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>19B</gate>
+        </flight>
+        <flight uniqueID="4020975">
+            <airline>DY</airline>
+            <flight_id>DY276</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KRS</airport>
+            <check_in>CD</check_in>
+            <gate>9</gate>
+        </flight>
+        <flight uniqueID="4020790">
+            <airline>BA</airline>
+            <flight_id>BA767</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T15:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+        </flight>
+        <flight uniqueID="4021547">
+            <airline>SK</airline>
+            <flight_id>SK316</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T15:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HAU</airport>
+            <check_in>EF</check_in>
+            <gate>13</gate>
+        </flight>
+        <flight uniqueID="4031035">
+            <airline>QF</airline>
+            <flight_id>QF3614</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T15:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+        </flight>
+        <flight uniqueID="4021597">
+            <airline>SK</airline>
+            <flight_id>SK364</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="3965303">
+            <airline>SK</airline>
+            <flight_id>SK277</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+        </flight>
+        <flight uniqueID="4021443">
+            <airline>SK</airline>
+            <flight_id>SK221</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KRS</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="4021218">
+            <airline>DY</airline>
+            <flight_id>DY820</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>CD</check_in>
+            <gate>37C</gate>
+        </flight>
+        <flight uniqueID="4021958">
+            <airline>SK</airline>
+            <flight_id>SK488</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>45</gate>
+        </flight>
+        <flight uniqueID="4021987">
+            <airline>SK</airline>
+            <flight_id>SK839</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CDG</airport>
+            <check_in>EF</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4021988">
+            <airline>SK</airline>
+            <flight_id>SK841</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ZRH</airport>
+            <check_in>EF</check_in>
+            <gate>40</gate>
+        </flight>
+        <flight uniqueID="4031036">
+            <airline>FI</airline>
+            <flight_id>FI7348</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>H</check_in>
+            <gate>35B</gate>
+        </flight>
+        <flight uniqueID="4021380">
+            <airline>SK</airline>
+            <flight_id>SK1326</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>EF</check_in>
+            <gate>10</gate>
+        </flight>
+        <flight uniqueID="4021975">
+            <airline>SK</airline>
+            <flight_id>SK811</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>EF</check_in>
+            <gate>57</gate>
+        </flight>
+        <flight uniqueID="4020773">
+            <airline>AY</airline>
+            <flight_id>AY2660</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>H</check_in>
+            <gate>35B</gate>
+        </flight>
+        <flight uniqueID="4021397">
+            <airline>SK</airline>
+            <flight_id>SK1465</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>41</gate>
+        </flight>
+        <flight uniqueID="4021252">
+            <airline>KL</airline>
+            <flight_id>KL1148</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+            <gate>38</gate>
+        </flight>
+        <flight uniqueID="4021226">
+            <airline>DY</airline>
+            <flight_id>DY948</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>CD</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4021945">
+            <airline>SK</airline>
+            <flight_id>SK4757</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRA</airport>
+            <check_in>EF</check_in>
+            <gate>46</gate>
+        </flight>
+        <flight uniqueID="4021709">
+            <airline>SK</airline>
+            <flight_id>SK4122</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BOO</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4021671">
+            <airline>SK</airline>
+            <flight_id>SK4043</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <status code="C"/>
+        </flight>
+        <flight uniqueID="4020935">
+            <airline>DY</airline>
+            <flight_id>DY1404</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>NCE</airport>
+            <check_in>CD</check_in>
+            <gate>42</gate>
+        </flight>
+        <flight uniqueID="4020807">
+            <airline>BA</airline>
+            <flight_id>BA8276</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AAL</airport>
+            <check_in>H</check_in>
+            <gate>47C</gate>
+        </flight>
+        <flight uniqueID="4020937">
+            <airline>DY</airline>
+            <flight_id>DY1496</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ORY</airport>
+            <check_in>CD</check_in>
+            <gate>44</gate>
+        </flight>
+        <flight uniqueID="4022007">
+            <airline>SN</airline>
+            <flight_id>SN2284</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BRU</airport>
+            <check_in>H</check_in>
+            <gate>35A</gate>
+        </flight>
+        <flight uniqueID="4031038">
+            <airline>EY</airline>
+            <flight_id>EY7204</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BRU</airport>
+            <check_in>H</check_in>
+            <gate>35A</gate>
+        </flight>
+        <flight uniqueID="4031037">
+            <airline>AY</airline>
+            <flight_id>AY5876</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AAL</airport>
+            <check_in>H</check_in>
+            <gate>47C</gate>
+        </flight>
+        <flight uniqueID="4020889">
+            <airline>DY</airline>
+            <flight_id>DY1108</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SXF</airport>
+            <check_in>CD</check_in>
+            <gate>43</gate>
+        </flight>
+        <flight uniqueID="4021577">
+            <airline>SK</airline>
+            <flight_id>SK348</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>19C</gate>
+        </flight>
+        <flight uniqueID="4021459">
+            <airline>SK</airline>
+            <flight_id>SK2305</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KSU</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="4021121">
+            <airline>DY</airline>
+            <flight_id>DY540</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>20</gate>
+        </flight>
+        <flight uniqueID="4022235">
+            <airline>WF</airline>
+            <flight_id>WF193</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <via_airport>FDE</via_airport>
+            <check_in>EF</check_in>
+            <gate>3</gate>
+        </flight>
+        <flight uniqueID="4021200">
+            <airline>DY</airline>
+            <flight_id>DY764</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="4021997">
+            <airline>SK</airline>
+            <flight_id>SK884</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>47F</gate>
+        </flight>
+        <flight uniqueID="4021033">
+            <airline>DY</airline>
+            <flight_id>DY364</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>EVE</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+        </flight>
+        <flight uniqueID="4021156">
+            <airline>DY</airline>
+            <flight_id>DY624</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>19A</gate>
+        </flight>
+        <flight uniqueID="4021047">
+            <airline>DY</airline>
+            <flight_id>DY384</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>CD</check_in>
+            <gate>15</gate>
+        </flight>
+        <flight uniqueID="4021513">
+            <airline>SK</airline>
+            <flight_id>SK281</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="4021076">
+            <airline>DY</airline>
+            <flight_id>DY414</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>CD</check_in>
+            <gate>22</gate>
+        </flight>
+        <flight uniqueID="4021021">
+            <airline>DY</airline>
+            <flight_id>DY350</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T16:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BOO</airport>
+            <check_in>CD</check_in>
+            <gate>13</gate>
+        </flight>
+        <flight uniqueID="4021349">
+            <airline>OR</airline>
+            <flight_id>OR7613</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T16:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CUN</airport>
+            <check_in>G</check_in>
+            <gate>59</gate>
+        </flight>
+        <flight uniqueID="4021174">
+            <airline>DY</airline>
+            <flight_id>DY7001</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>JFK</airport>
+            <check_in>B</check_in>
+            <gate>50</gate>
+        </flight>
+        <flight uniqueID="4021601">
+            <airline>SK</airline>
+            <flight_id>SK366</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>19B</gate>
+        </flight>
+        <flight uniqueID="4021918">
+            <airline>SK</airline>
+            <flight_id>SK461</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>40</gate>
+        </flight>
+        <flight uniqueID="4021843">
+            <airline>SK</airline>
+            <flight_id>SK4478</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KKN</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4022145">
+            <airline>WF</airline>
+            <flight_id>WF128</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRO</airport>
+            <check_in>EF</check_in>
+            <gate>10</gate>
+        </flight>
+        <flight uniqueID="4021336">
+            <airline>M3</airline>
+            <flight_id>M3991</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>OLA</airport>
+            <check_in>H</check_in>
+            <gate>7</gate>
+        </flight>
+        <flight uniqueID="4020878">
+            <airline>DX</airline>
+            <flight_id>DX048</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SRP</airport>
+            <check_in>B</check_in>
+            <gate>2</gate>
+        </flight>
+        <flight uniqueID="3928795">
+            <airline>DY</airline>
+            <flight_id>DY1310</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T17:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LGW</airport>
+            <check_in>CD</check_in>
+            <gate>58A</gate>
+        </flight>
+        <flight uniqueID="4021407">
+            <airline>SK</airline>
+            <flight_id>SK1484</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4021301">
+            <airline>LH</airline>
+            <flight_id>LH2455</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>MUC</airport>
+            <check_in>E</check_in>
+            <gate>47A</gate>
+        </flight>
+        <flight uniqueID="4031040">
+            <airline>AY</airline>
+            <flight_id>AY5863</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BLL</airport>
+            <check_in>H</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4020799">
+            <airline>BA</airline>
+            <flight_id>BA8268</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BLL</airport>
+            <check_in>H</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4031041">
+            <airline>SK</airline>
+            <flight_id>SK3681</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>MUC</airport>
+            <check_in>E</check_in>
+            <gate>47A</gate>
+        </flight>
+        <flight uniqueID="4021160">
+            <airline>DY</airline>
+            <flight_id>DY626</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+        </flight>
+        <flight uniqueID="4022081">
+            <airline>TK</airline>
+            <flight_id>TK1754</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T17:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>IST</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+        </flight>
+        <flight uniqueID="4021673">
+            <airline>SK</airline>
+            <flight_id>SK4045</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="4031042">
+            <airline>SK</airline>
+            <flight_id>SK3413</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T17:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>IST</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+        </flight>
+        <flight uniqueID="4021603">
+            <airline>SK</airline>
+            <flight_id>SK368</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="4031043">
+            <airline>EY</airline>
+            <flight_id>EY8103</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>RIX</airport>
+            <check_in>F</check_in>
+            <gate>35A</gate>
+        </flight>
+        <flight uniqueID="4021713">
+            <airline>SK</airline>
+            <flight_id>SK4124</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BOO</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="4020847">
+            <airline>BT</airline>
+            <flight_id>BT154</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>RIX</airport>
+            <check_in>F</check_in>
+            <gate>35A</gate>
+        </flight>
+        <flight uniqueID="4021829">
+            <airline>SK</airline>
+            <flight_id>SK4432</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:35:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>EF</check_in>
+            <gate>16</gate>
+        </flight>
+        <flight uniqueID="4031044">
+            <airline>SK</airline>
+            <flight_id>SK3621</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRA</airport>
+            <check_in>E</check_in>
+            <gate>44</gate>
+        </flight>
+        <flight uniqueID="4021309">
+            <airline>LH</airline>
+            <flight_id>LH863</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRA</airport>
+            <check_in>E</check_in>
+            <gate>44</gate>
+        </flight>
+        <flight uniqueID="4022217">
+            <airline>WF</airline>
+            <flight_id>WF179</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HOV</airport>
+            <check_in>EF</check_in>
+            <gate>3</gate>
+        </flight>
+        <flight uniqueID="4020998">
+            <airline>DY</airline>
+            <flight_id>DY3240</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>CD</check_in>
+            <gate>38</gate>
+        </flight>
+        <flight uniqueID="4021515">
+            <airline>SK</airline>
+            <flight_id>SK283</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4021405">
+            <airline>SK</airline>
+            <flight_id>SK1477</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>43</gate>
+        </flight>
+        <flight uniqueID="4020856">
+            <airline>DK</airline>
+            <flight_id>DK6741</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LPA</airport>
+            <check_in>G</check_in>
+            <gate>42</gate>
+        </flight>
+        <flight uniqueID="4020803">
+            <airline>BA</airline>
+            <flight_id>BA8272</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AAR</airport>
+            <check_in>H</check_in>
+            <gate>37A</gate>
+        </flight>
+        <flight uniqueID="4031045">
+            <airline>AY</airline>
+            <flight_id>AY5880</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T17:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AAR</airport>
+            <check_in>H</check_in>
+            <gate>37A</gate>
+        </flight>
+        <flight uniqueID="3871717">
+            <airline>DY</airline>
+            <flight_id>DY544</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T17:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>19H</gate>
+        </flight>
+        <flight uniqueID="4021053">
+            <airline>DY</airline>
+            <flight_id>DY388</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>CD</check_in>
+            <gate>15</gate>
+        </flight>
+        <flight uniqueID="4021204">
+            <airline>DY</airline>
+            <flight_id>DY768</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>CD</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="4021072">
+            <airline>DY</airline>
+            <flight_id>DY4120</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>CD</check_in>
+            <gate>48</gate>
+        </flight>
+        <flight uniqueID="4021999">
+            <airline>SK</airline>
+            <flight_id>SK886</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>46</gate>
+        </flight>
+        <flight uniqueID="4021254">
+            <airline>KL</airline>
+            <flight_id>KL1150</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>B</check_in>
+            <gate>40</gate>
+        </flight>
+        <flight uniqueID="4020909">
+            <airline>DY</airline>
+            <flight_id>DY1258</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AMS</airport>
+            <check_in>CD</check_in>
+            <gate>47A</gate>
+        </flight>
+        <flight uniqueID="4020755">
+            <airline>AB</airline>
+            <flight_id>AB8243</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TXL</airport>
+            <check_in>H</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4021384">
+            <airline>SK</airline>
+            <flight_id>SK1330</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>AES</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+        </flight>
+        <flight uniqueID="4031049">
+            <airline>AZ</airline>
+            <flight_id>AZ3563</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CDG</airport>
+            <check_in>B</check_in>
+            <gate>45</gate>
+        </flight>
+        <flight uniqueID="4020765">
+            <airline>AF</airline>
+            <flight_id>AF1375</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:10:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CDG</airport>
+            <check_in>B</check_in>
+            <gate>45</gate>
+        </flight>
+        <flight uniqueID="4020829">
+            <airline>BM</airline>
+            <flight_id>BM1358</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T18:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ABZ</airport>
+            <check_in>E</check_in>
+            <gate>58D</gate>
+        </flight>
+        <flight uniqueID="4021950">
+            <airline>SK</airline>
+            <flight_id>SK4769</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>PRG</airport>
+            <check_in>EF</check_in>
+            <gate>49</gate>
+        </flight>
+        <flight uniqueID="4021164">
+            <airline>DY</airline>
+            <flight_id>DY632</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+        </flight>
+        <flight uniqueID="4022275">
+            <airline>WF</airline>
+            <flight_id>WF336</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4031050">
+            <airline>SK</airline>
+            <flight_id>SK3192</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>GOT</airport>
+            <check_in>EF</check_in>
+            <gate>37B</gate>
+        </flight>
+        <flight uniqueID="4021677">
+            <airline>SK</airline>
+            <flight_id>SK4047</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>13</gate>
+        </flight>
+        <flight uniqueID="4021605">
+            <airline>SK</airline>
+            <flight_id>SK370</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:25:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>20</gate>
+        </flight>
+        <flight uniqueID="4021551">
+            <airline>SK</airline>
+            <flight_id>SK320</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HAU</airport>
+            <check_in>EF</check_in>
+            <gate>24</gate>
+        </flight>
+        <flight uniqueID="4021389">
+            <airline>SK</airline>
+            <flight_id>SK1451</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BLL</airport>
+            <check_in>EF</check_in>
+            <gate>41</gate>
+        </flight>
+        <flight uniqueID="4021447">
+            <airline>SK</airline>
+            <flight_id>SK223</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>KRS</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="3965305">
+            <airline>SK</airline>
+            <flight_id>SK287</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="4021325">
+            <airline>LX</airline>
+            <flight_id>LX1217</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ZRH</airport>
+            <check_in>H</check_in>
+            <gate>42</gate>
+        </flight>
+        <flight uniqueID="4022103">
+            <airline>WF</airline>
+            <flight_id>WF056</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:40:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>RRS</airport>
+            <check_in>EF</check_in>
+            <gate>7</gate>
+        </flight>
+        <flight uniqueID="4021355">
+            <airline>OV</airline>
+            <flight_id>OV138</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TLL</airport>
+            <check_in>E</check_in>
+            <gate>38</gate>
+        </flight>
+        <flight uniqueID="4021863">
+            <airline>SK</airline>
+            <flight_id>SK4528</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>MOL</airport>
+            <check_in>EF</check_in>
+            <gate>26</gate>
+        </flight>
+        <flight uniqueID="4031070">
+            <airline>SK</airline>
+            <flight_id>SK8416</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TLL</airport>
+            <check_in>E</check_in>
+            <gate>38</gate>
+        </flight>
+        <flight uniqueID="4020900">
+            <airline>DY</airline>
+            <flight_id>DY1198</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>CD</check_in>
+            <gate>43</gate>
+        </flight>
+        <flight uniqueID="4021831">
+            <airline>SK</airline>
+            <flight_id>SK4434</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ALF</airport>
+            <via_airport>TOS</via_airport>
+            <check_in>EF</check_in>
+            <gate>19E</gate>
+        </flight>
+        <flight uniqueID="4021927">
+            <airline>SK</airline>
+            <flight_id>SK463</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T18:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>44</gate>
+        </flight>
+        <flight uniqueID="4022189">
+            <airline>WF</airline>
+            <flight_id>WF155</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T18:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SDN</airport>
+            <via_airport>SOG</via_airport>
+            <check_in>EF</check_in>
+            <gate>2</gate>
+        </flight>
+        <flight uniqueID="4021230">
+            <airline>DY</airline>
+            <flight_id>DY998</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BLL</airport>
+            <check_in>CD</check_in>
+            <gate>40</gate>
+        </flight>
+        <flight uniqueID="4021499">
+            <airline>SK</airline>
+            <flight_id>SK2706</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4021963">
+            <airline>SK</airline>
+            <flight_id>SK492</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:05:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>ARN</airport>
+            <check_in>EF</check_in>
+            <gate>48</gate>
+        </flight>
+        <flight uniqueID="4020753">
+            <airline>4U</airline>
+            <flight_id>4U7197</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HAM</airport>
+            <check_in>G</check_in>
+            <gate>45</gate>
+        </flight>
+        <flight uniqueID="4021977">
+            <airline>SK</airline>
+            <flight_id>SK815</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T19:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>EF</check_in>
+            <gate>50</gate>
+        </flight>
+        <flight uniqueID="4021617">
+            <airline>SK</airline>
+            <flight_id>SK380</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TRD</airport>
+            <check_in>EF</check_in>
+            <gate>18</gate>
+        </flight>
+        <flight uniqueID="4021537">
+            <airline>SK</airline>
+            <flight_id>SK291</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:15:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BGO</airport>
+            <check_in>EF</check_in>
+            <gate>20</gate>
+        </flight>
+        <flight uniqueID="4020775">
+            <airline>AY</airline>
+            <flight_id>AY658</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>H</check_in>
+            <gate>46</gate>
+        </flight>
+        <flight uniqueID="4031073">
+            <airline>BA</airline>
+            <flight_id>BA6078</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>HEL</airport>
+            <check_in>H</check_in>
+            <gate>46</gate>
+        </flight>
+        <flight uniqueID="4021681">
+            <airline>SK</airline>
+            <flight_id>SK4055</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>EF</check_in>
+            <gate>22</gate>
+        </flight>
+        <flight uniqueID="4021693">
+            <airline>SK</airline>
+            <flight_id>SK4098</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:20:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>EVE</airport>
+            <check_in>EF</check_in>
+            <gate>14</gate>
+        </flight>
+        <flight uniqueID="4021127">
+            <airline>DY</airline>
+            <flight_id>DY546</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:30:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>SVG</airport>
+            <check_in>CD</check_in>
+            <gate>13</gate>
+        </flight>
+        <flight uniqueID="4021039">
+            <airline>DY</airline>
+            <flight_id>DY368</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>EVE</airport>
+            <check_in>CD</check_in>
+            <gate>19B</gate>
+        </flight>
+        <flight uniqueID="3928192">
+            <airline>DY</airline>
+            <flight_id>DY338</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T19:45:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>BDU</airport>
+            <check_in>CD</check_in>
+            <gate>11</gate>
+        </flight>
+        <flight uniqueID="4021851">
+            <airline>SK</airline>
+            <flight_id>SK4496</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T19:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LYR</airport>
+            <check_in>EF</check_in>
+            <gate>53</gate>
+        </flight>
+        <flight uniqueID="4021404">
+            <airline>SK</airline>
+            <flight_id>SK1475</flight_id>
+            <dom_int>S</dom_int>
+            <schedule_time>2014-02-27T19:50:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>CPH</airport>
+            <check_in>EF</check_in>
+            <gate>39</gate>
+        </flight>
+        <flight uniqueID="4020792">
+            <airline>BA</airline>
+            <flight_id>BA769</flight_id>
+            <dom_int>I</dom_int>
+            <schedule_time>2014-02-27T19:55:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>LHR</airport>
+            <check_in>H</check_in>
+            <gate>51</gate>
+        </flight>
+        <flight uniqueID="4021055">
+            <airline>DY</airline>
+            <flight_id>DY390</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T20:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>TOS</airport>
+            <check_in>CD</check_in>
+            <gate>19A</gate>
+        </flight>
+        <flight uniqueID="4022149">
+            <airline>WF</airline>
+            <flight_id>WF132</flight_id>
+            <dom_int>D</dom_int>
+            <schedule_time>2014-02-27T20:00:00Z</schedule_time>
+            <arr_dep>D</arr_dep>
+            <airport>FRO</airport>
+            <via_airport>SOG</via_airport>
+            <check_in>EF</check_in>
+            <gate>3</gate>
+        </flight>
+    </flights>
+</airport>
